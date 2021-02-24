@@ -16,7 +16,7 @@ This repository contains a docker container with nginx server for to serving sta
 
 1. Create container
   
-  $ docker-compose -f docker-compose.yml up
+       $ docker-compose -f docker-compose.yml up
   
 2. For check install go to `<ip o localhost>` in your browser
 
